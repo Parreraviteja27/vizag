@@ -1,0 +1,2 @@
+this is the thirdfile.txt which is using vi command
+
