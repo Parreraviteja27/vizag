@@ -1,1 +1,2 @@
 this is eighthfile created by dev1
+adding some new code to detect jenkins and do the build 
